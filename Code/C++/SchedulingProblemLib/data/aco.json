@@ -1,0 +1,12 @@
+{
+  "ACO": {
+    "pheDecay": 0.1,
+    "pheInfluence": 0.6,
+    "heuInfluence": 0.8,
+    "epochs": 100,
+    "ants": 5,
+    "threshold": 0.4,
+    "saturation": 500,
+    "randomState": 42
+  }
+}

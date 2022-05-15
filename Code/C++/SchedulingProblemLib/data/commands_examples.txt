@@ -1,0 +1,3 @@
+--runs -alg data/aco.json data/sao.json -pool data/graphparams.json 20 10 -dups 10 20 30 -output output
+--test -alg data/aco.json data/sao.json data/acols.json data/antq.json -pool data/graphparams.json 20 10 -dups 10 -output output
+--gridsearch -alg data/aco.json -pool data/graphparams.json 20 10 -dups 10 -grid data/aco_grid.json -output output

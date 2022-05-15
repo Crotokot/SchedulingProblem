@@ -1,0 +1,9 @@
+{
+  "SAO": {
+    "minTemp": 1,
+    "maxTemp": 13,
+    "reductionRule": 0,
+    "saturation": 5,
+    "randomState": 42
+  }
+}
